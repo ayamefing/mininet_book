@@ -1,5 +1,11 @@
 Mininet 应用与源码剖析
 ============
+> 原文：[Mininet 应用与源码剖析](https://github.com/yeasy/mininet_book)
+
+> 作者：[yeasy](https://github.com/yeasy)
+
+> 版本：0.6: 2013-12-16
+
 [Mininet](http://mininet.org) 是研究软件定义网络，进行快速验证的高效模拟平台。
 
 本书的一到三章介绍 Mininet 的安装和使用；第四章介绍一些高级功能；五到七章分析 Mininet 的源码实现。
